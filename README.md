@@ -8,4 +8,4 @@ Basic Assignment User Story
 * There will be a counter counting down the remaining time.
 * The player should NOT be able to pick more than one answer for each question.
 
-Heroku: 
+Heroku: https://floating-waters-18277.herokuapp.com/
