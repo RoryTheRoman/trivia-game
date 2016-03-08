@@ -3,7 +3,7 @@ $(document).ready(function(){
 // ----------------------------------------------------------------
  // declaring the value for the timer to 60 seconds
  // hide the start button and rules
-  	var number = 60;
+  	var number = 50;
   	alert("The let game begin!");
     $("#start-button").on("click", start);  // starts the games 
     $("#submit").on("click", finish);  // submits answers and finishes the game
@@ -43,7 +43,7 @@ $(document).ready(function(){
     }
 
     function restart(){
-    	number = 60;
+    	number = 50;
     	start();
     }
 
